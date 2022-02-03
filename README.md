@@ -1,1 +1,2 @@
 # Web-Scraping
+I used the AutoScraper package to do the web scraping. It takes into account the input which includes the different types of text boxes that the user wants to scrape, and find the similar type of text. Then we group them accordingly, and create a dataframe. We do the same for the webpages that contain the rest of the contractors' information, and keep concatenating the dataframes. In the end, a csv file is created which contains all the information.
